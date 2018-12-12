@@ -1,0 +1,13 @@
+﻿  RtpSender.cpp
+  MEncode.cpp
+d:\vr\lib\ffmpeg-x64-new\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vr\cloud vr\video\encodevideo\encodevideo\mencode.cpp(58): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+d:\vr\cloud vr\video\encodevideo\encodevideo\mencode.cpp(71): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+d:\vr\cloud vr\video\encodevideo\encodevideo\mencode.cpp(120): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\vr\cloud vr\video\encodevideo\encodevideo\mencode.cpp(345): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+d:\vr\cloud vr\video\encodevideo\encodevideo\mencode.cpp(389): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+d:\vr\cloud vr\video\encodevideo\encodevideo\mencode.cpp(495): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+d:\vr\cloud vr\video\encodevideo\encodevideo\mencode.cpp(567): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+d:\vr\cloud vr\video\encodevideo\encodevideo\mencode.cpp(574): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+  正在生成代码...
+  EncodeVideo.vcxproj -> D:\VR\cloud vr\VIDEO\EncodeVideo\x64\Debug\EncodeVideo.exe

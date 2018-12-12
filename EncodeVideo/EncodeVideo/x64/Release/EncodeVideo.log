@@ -1,0 +1,20 @@
+﻿  MEncode.cpp
+c:\vr\ffmpeg-x64-new\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+MEncode.cpp(58): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+MEncode.cpp(71): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+MEncode.cpp(145): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+MEncode.cpp(265): warning C4477: 'printf' : format string '%3d' requires an argument of type 'int', but variadic argument 2 has type 'int64_t'
+  MEncode.cpp(265): note: consider using '%lld' in the format string
+  MEncode.cpp(265): note: consider using '%Id' in the format string
+  MEncode.cpp(265): note: consider using '%I64d' in the format string
+MEncode.cpp(374): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+MEncode.cpp(418): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+MEncode.cpp(524): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+MEncode.cpp(604): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+MEncode.cpp(611): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  正在生成代码
+  18 of 296 functions ( 6.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  EncodeVideo.vcxproj -> C:\Users\cic-vr\Documents\Visual Studio 2015\Projects\Cloud VR Server\EncodeVideo\x64\Release\EncodeVideo.exe
